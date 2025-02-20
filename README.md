@@ -8,7 +8,7 @@ This repository contains implementations of various object detection algorithms.
 - **Feature Pyramid Networks (FPN)**
 - **RetinaNet (Focal Loss for Dense Object Detection)**
 
-These models are widely used for solving real-world problems such as image classification, object tracking, autonomous driving, and more. This repository provides an in-depth exploration and implementation of each model.
+These models are widely used for solving real-world problems such as image classification, object tracking, autonomous driving, and more. 
 
 ## Table of Contents
 - [RCNN (Region-based Convolutional Neural Networks)](#rcnn)
